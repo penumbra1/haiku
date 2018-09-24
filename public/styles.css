@@ -1,0 +1,45 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.8;
+  margin: auto;
+  max-width: 800px;
+  padding: 1rem 2rem;
+}
+
+section {
+  padding: 0.5rem 0;
+}
+
+h1,
+h2 {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 300;
+}
+
+h1 {
+  border-bottom: 1px solid #1da0a7;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  margin: 0;
+  margin-bottom: 2rem;
+  padding: 3rem 0;
+}
+
+h2 {
+  font-size: 2rem;
+  margin: 1rem 0;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  color: #1da0a7;
+}
+
+a:active,
+a:focus,
+a:hover {
+  color: #00494c;
+}
